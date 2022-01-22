@@ -1,0 +1,23 @@
+html {
+  font-family : "Yu Gothic";
+}
+header {
+  font-weight : bold;
+}
+div {
+  font-size : 26px;
+}
+button {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+
+  margin: 0px; /* 前後の隙間 */
+  padding: 0px; /* 塗りの余白 */
+  border: solid 1px #00764c;
+  font-size: 26px; /* フォントサイズ */
+  background-color: #FFF; /* 背景色 */
+  color: #00764c; /* テキストカラー */
+  cursor: pointer; /* カーソルを指マークに */
+  border-radius: 100px; /* 角の丸み */
+}
